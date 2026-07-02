@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **ExpressJs**
+- 🌱 I’m currently advancing my skills in **Python**
 
 - 👨‍💻 All of my projects are available at [https://codedbychiagozie.vercel.app](https://codedbychiagozie.vercel.app)
 
