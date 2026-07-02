@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiagoziepio&label=Profile%20views&color=0e75b6&style=flat" alt="chiagoziepio" /> </p>
 
-- 🔭 I’m currently working on [Meetify social web-app](https://meetify-pearl.vercel.app/)
+
 
 - 🌱 I’m currently learning **ExpressJs**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-omega-five-67.vercel.app/](https://portfolio-omega-five-67.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://codedbychiagozie.vercel.app](https://codedbychiagozie.vercel.app)
 
-- 💬 Ask me about **React, redux, Recharts, Tailwind, JavaScript**
+- 💬 Ask me about **React, redux, Recharts, Tailwind, JavaScript, TypeScript, Python, Nextjs**
 
 - 📫 How to reach me **nduagbubachiagozie@gmail.com**
 
