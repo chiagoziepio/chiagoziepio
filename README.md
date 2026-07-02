@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher Chiagozie Pio</h1>
-<h3 align="center">A passionate, goal-oriented frontend Developer</h3>
+<h3 align="center">A passionate, goal-oriented, team-spirited fullstack  frontend-focused software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiagoziepio&label=Profile%20views&color=0e75b6&style=flat" alt="chiagoziepio" /> </p>
 
